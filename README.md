@@ -1,0 +1,1 @@
+A sophisticated OCR ML model engineered for accurate and efficient recognition of English alphabets and numerals. Leveraging advanced algorithms, it delivers exceptional precision, seamlessly converting printed and handwritten text into digital format with remarkable reliability.
